@@ -110,6 +110,16 @@
 * 对比两个分支指定文件的差异：git diff master dev demo.txt
 * 重命名分支：git branch -M main
 
+###### 与 github 交互
+
+* 关联：git remote add origin https://github.com/Jayce-liang/test.git
+* 推送：git push -u origin main
+* 拉取：
+  * git pull origin main
+  * git fetch origin main:temp
+
+
+
 
 
 
