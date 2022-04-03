@@ -116,9 +116,9 @@
 * 推送：git push -u origin main
 * 拉取：
   * git pull origin main
+  * git pull
   * git fetch origin main:temp
-
-
+* 克隆：git clone https://github.com/vuejs/vue.git
 
 
 
